@@ -1,0 +1,21 @@
+#global{
+    border: 1px;
+    background-color:blueviolet ;
+    height: 1000px;
+}
+
+#header{
+    border: 1PX;
+    background:pink;
+    height: 200px;
+    margin: 5px;
+    padding: 5px;
+}
+
+#contenu{
+    border: 1PX;
+    background: rgb(239, 8, 189);
+    height: 800px;
+    margin: 5px;
+    padding: 5px;
+}
